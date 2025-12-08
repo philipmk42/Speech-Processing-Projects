@@ -98,3 +98,26 @@ Demonstrates practical integration of:
 ---
 
 ## 📂 Suggested Repository Structure
+Speech-Processing-pgms/
+│
+├── Spr_lab1.ipynb
+├── lab2_spr.ipynb
+├── sr_lab3.py
+├── Spr_lab4.ipynb
+├── SPR_lab5.ipynb
+├── SPR_lab6.ipynb
+├── spr_lab7.ipynb
+├── Spr_lab8.ipynb
+├── spr_lab9.ipynb
+├── speech_directory_lab10.py
+└── README.md
+
+
+---
+
+## 📦 Installation Requirements
+
+Install core dependencies:
+
+```bash
+pip install numpy matplotlib librosa soundfile scikit-learn streamlit SpeechRecognition pyaudi
